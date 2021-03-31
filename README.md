@@ -1,7 +1,7 @@
 # metadata
 
 Motivation:
-We are a research institute and are looking for methods to organize and summarize our data to enable us to abide by FAIR principles and play a leading role in enabling the industry to adopt such methods during data creation, assimilation and post-processing. A lot of data in the wind energy field is related to one another and although data standards exist in meteorological domains, computational domains and SCADA data domains, they remain distributed and suit exclusively to the applications at hand. The intention here is to get inputs from the participants regarding the missing information and build a solution i.e. a metadata file which will suit a complete system e.g. a wind farm
+We are looking for methods to organize and summarize our data to enable us to abide by FAIR principles and play a leading role in enabling the industry to adopt such methods during data creation, assimilation and post-processing. A lot of data in the wind energy field is related to one another and although data standards exist in meteorological domains, computational domains and SCADA data domains, they remain distributed and suit exclusively to the applications at hand. The intention here is to get inputs from the participants regarding the missing information and build a solution i.e. a metadata file which will suit a complete system e.g. a wind farm
 
 Challenge:
 What information shall be included in the metadata and where does it fit? How does a final metadata file look like and how accessible is it to the industry?
